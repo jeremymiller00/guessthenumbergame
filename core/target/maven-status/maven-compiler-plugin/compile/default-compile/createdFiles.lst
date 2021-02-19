@@ -1,11 +1,10 @@
-com/jeremy/Game.class
-com/jeremy/config/GameConfig.class
-com/jeremy/MinNumber.class
-com/jeremy/MessageGeneratorImpl.class
 com/jeremy/NumberGeneratorImpl.class
+com/jeremy/Game.class
 com/jeremy/GuessCount.class
 com/jeremy/MaxNumber.class
 com/jeremy/GameImpl.class
-com/jeremy/config/AppConfig.class
 com/jeremy/MessageGenerator.class
+com/jeremy/config/GameConfig.class
 com/jeremy/NumberGenerator.class
+com/jeremy/MinNumber.class
+com/jeremy/MessageGeneratorImpl.class
